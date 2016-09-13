@@ -1,4 +1,4 @@
-最近刚好有点空闲，就打算学一下图形学方面的知识，选择的课本为 Computer Graphics with OpenGL (4th) 影印版。这个项目主要就包含一些课本中的demo和一些课后习题。学习笔记之类可以在[个人博客](woodrain.github.io)找找看.
+最近刚好有点空闲，就打算学一下图形学方面的知识，选择的课本为 Computer Graphics with OpenGL (4th) 影印版。这个项目主要就包含一些课本中的demo和一些课后习题。学习笔记之类可以在[个人博客](http://woodrain.github.io)找找看.
 
 # 项目命名
 + 每章项目用Chapter开头，如Chapter3表示第三章
